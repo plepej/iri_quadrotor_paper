@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.5)  5 AUG 2015 23:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.5)  5 AUG 2015 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -131,8 +131,7 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 370.
 \p@intvaluey=\dimen125
 
 psfig/tex 1.10-dvips
-)
-No file iscv_quadcopter_3d_nav.aux.
+) (./iscv_quadcopter_3d_nav.aux)
 \openout1 = `iscv_quadcopter_3d_nav.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -151,119 +150,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 26.
-
-LaTeX Warning: Reference `sect:TeX' on page 1 undefined on input line 48.
-
-
-LaTeX Warning: Reference `sect:Word' on page 1 undefined on input line 52.
-
-[1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Reference `table:headings' on page 2 undefined on input line 94.
-
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 102.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 102.
-
-Overfull \hbox (3.8771pt too wide) in paragraph at lines 121--127
-\OT1/cmr/m/n/10 of Col-lage Lan-guages'', ``On Cor-rect-ing the In-tru-sion of 
-Trac-ing Non-deterministic
- []
+Missing character: There is no √ in font cmr9!
+Missing character: There is no ≤ in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no † in font cmr9!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+ [1
 
 
-LaTeX Warning: Reference `sect:TeX' on page 2 undefined on input line 140.
-
-[2]
-
-LaTeX Warning: Reference `fig:example' on page 3 undefined on input line 159.
-
-psfig: searching eijkel2.eps for bounding box
-psfig: including eijkel2.eps 
-[3
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-
-LaTeX Warning: Reference `sect:TeX' on page 4 undefined on input line 214.
-
-[4]
-
-LaTeX Warning: Citation `leeuw' on page 5 undefined on input line 278.
-
-
-LaTeX Warning: Citation `bru:car:pier' on page 5 undefined on input line 279.
-
-
-LaTeX Warning: Citation `mich' on page 5 undefined on input line 279.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 282.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 282.
-
-Overfull \hbox (1.34796pt too wide) in paragraph at lines 305--306
-[]\OT1/cmr/m/n/10 See the ``Pa-per Sub-mis-sion" page of ISVC web site (http://
-www.isvc.net). 
- []
-
-[5]
-
-LaTeX Warning: Reference `sect:figures' on page 6 undefined on input line 360.
-
-
-Overfull \hbox (1.40137pt too wide) in paragraph at lines 352--362
-[][]\OT1/cmtt/m/n/10 ftp://ftp.dante.de/tex-archive/systems/knuth/local/lib/eps
-f.tex\OT1/cmr/m/n/10 . 
- []
-
-
-LaTeX Warning: Citation `bal:cha:gra:pae' undefined on input line 378.
-
-No file iscv_quadcopter_3d_nav.bbl.
-[6] [7] (./iscv_quadcopter_3d_nav.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (./iscv_quadcopter
+_3d_nav.aux) ) 
 Here is how much of TeX's memory you used:
- 873 strings out of 494985
- 9350 string characters out of 6180357
- 68305 words of memory out of 5000000
- 4137 multiletter control sequences out of 15000+600000
- 13059 words of font info for 45 fonts, out of 8000000 for 9000
+ 809 strings out of 494985
+ 8727 string characters out of 6180357
+ 66305 words of memory out of 5000000
+ 4097 multiletter control sequences out of 15000+600000
+ 5457 words of font info for 20 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 29i,9n,21p,529b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmext
-ra/cmmib7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmtt10.pfb>
-Output written on iscv_quadcopter_3d_nav.pdf (7 pages, 233946 bytes).
+ 29i,5n,21p,1450b,159s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on iscv_quadcopter_3d_nav.pdf (3 pages, 67674 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
+ 30 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
